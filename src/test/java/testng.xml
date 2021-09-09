@@ -6,7 +6,7 @@
         <listener class-name="runner.NGTestListener" />
     </listeners>
 
-    <test name="Complete test run">
+    <test name="Complete test run">add
         <classes>
             <class name="runner.TestRunner" />
         </classes>
